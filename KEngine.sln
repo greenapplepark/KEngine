@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KEngine", "KEngine\KEngine.vcproj", "{C2103C3D-4AB8-460B-A385-F5F0E589CF24}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KCore", "KCore\KCore.vcproj", "{B5412303-8280-42BE-A216-29E166CA28F4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KGame", "KGame\KGame.vcproj", "{D6643513-32F2-4257-8004-10FAE2872239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2103C3D-4AB8-460B-A385-F5F0E589CF24}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C2103C3D-4AB8-460B-A385-F5F0E589CF24}.Debug|Win32.Build.0 = Debug|Win32
+		{C2103C3D-4AB8-460B-A385-F5F0E589CF24}.Release|Win32.ActiveCfg = Release|Win32
+		{C2103C3D-4AB8-460B-A385-F5F0E589CF24}.Release|Win32.Build.0 = Release|Win32
+		{B5412303-8280-42BE-A216-29E166CA28F4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B5412303-8280-42BE-A216-29E166CA28F4}.Debug|Win32.Build.0 = Debug|Win32
+		{B5412303-8280-42BE-A216-29E166CA28F4}.Release|Win32.ActiveCfg = Release|Win32
+		{B5412303-8280-42BE-A216-29E166CA28F4}.Release|Win32.Build.0 = Release|Win32
+		{D6643513-32F2-4257-8004-10FAE2872239}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D6643513-32F2-4257-8004-10FAE2872239}.Debug|Win32.Build.0 = Debug|Win32
+		{D6643513-32F2-4257-8004-10FAE2872239}.Release|Win32.ActiveCfg = Release|Win32
+		{D6643513-32F2-4257-8004-10FAE2872239}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
